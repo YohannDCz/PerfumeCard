@@ -33,8 +33,8 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://yohanndcz.github.io/SimpleCard02/)
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live](https://yohanndcz.github.io/SimpleCard02/)
 ## My process
 
 ### Built with
