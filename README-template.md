@@ -33,7 +33,7 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/YohannDCz/SimpleCard02/blob/main/index.html)
 - Live Site URL: [Live](https://yohanndcz.github.io/SimpleCard02/)
 ## My process
 
